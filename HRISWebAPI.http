@@ -1,0 +1,6 @@
+@HRISWebAPI_HostAddress = http://localhost:5062
+
+GET {{HRISWebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
